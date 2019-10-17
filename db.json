@@ -1,0 +1,104 @@
+{
+  "shops": [
+    {
+      "id": 0,
+      "title": "Цветков, Фокин and Виноградов",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/findingjenny/128.jpg",
+      "rating": "4.9",
+      "phrase": "Team-oriented attitude-oriented solution",
+      "cashback": "10 - 20",
+      "isNew": true,
+      "isFavorite": false
+    },
+    {
+      "id": 1,
+      "title": "Степанова - Рыбакова",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rmlewisuk/128.jpg",
+      "rating": "1.4",
+      "phrase": "Visionary 24/7 workforce",
+      "cashback": "10 - 20",
+      "isNew": true,
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "title": "Кудряшов, Кириллова and Самойлов",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/macxim/128.jpg",
+      "rating": "4.6",
+      "phrase": "Adaptive fault-tolerant portal",
+      "cashback": "10 - 20",
+      "isNew": true,
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "title": "Фадеев Снаб",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/joe_black/128.jpg",
+      "rating": "3.8",
+      "phrase": "Extended didactic focus group",
+      "cashback": "10 - 15",
+      "isNew": true,
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "title": "Устинов Торг",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/y2graphic/128.jpg",
+      "rating": "2.4",
+      "phrase": "Multi-layered bifurcated project",
+      "cashback": "5 - 10",
+      "isNew": true,
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "title": "Волков, Носова and Анисимов",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jjshaw14/128.jpg",
+      "rating": "4.0",
+      "phrase": "Ergonomic even-keeled monitoring",
+      "cashback": "5 - 7",
+      "isNew": true,
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "title": "Романов, Орлова and Ситникова",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/falconerie/128.jpg",
+      "rating": "3.2",
+      "phrase": "Function-based intangible strategy",
+      "cashback": "10 - 20",
+      "isNew": false,
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "title": "Соловьев - Пахомова",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dicesales/128.jpg",
+      "rating": "3.3",
+      "phrase": "User-friendly maximized algorithm",
+      "cashback": "10 - 20",
+      "isNew": true,
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "title": "Фадеева Пром",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mhudobivnik/128.jpg",
+      "rating": "3.3",
+      "phrase": "Focused motivating intranet",
+      "cashback": "5 - 10",
+      "isNew": true,
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "title": "Никифоров Пром",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sdidonato/128.jpg",
+      "rating": "2.6",
+      "phrase": "Streamlined 24 hour frame",
+      "cashback": "5 - 10",
+      "isNew": false,
+      "isFavorite": false
+    }
+  ]
+}
